@@ -14,6 +14,4 @@ Child malnutrition remains a critical public health challenge in India. This pro
 * **Important Predictors:** Maternal nutrition (BMI and anaemia), sanitation, women's education, and child anaemia emerged as the most significant predictors. 
 * **Model Performance:** While ensemble models achieved high training accuracy, Linear Regression proved highly stable, and PSO provided consistent improvements in generalization.
 
-## Repository Contents
-* `codes_nfhs5.ipynb` - Source code for data preprocessing, feature selection, and model training.
-* `report.pdf` - Full project report detailing the theoretical framework, EDA, and policy implications.
+
